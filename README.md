@@ -6,7 +6,7 @@
   \___|_| |_|\___/ \___/|_.__/|_|___/  \___/|_|  \__, |
                                                  |___/ 
 ```
-# Welcome to our ENOOBIS organization!
+# Welcome to our enoobis organization!
 
 We are a group of developers and researchers who are dedicated to creating open source software and sharing our work with the community. Our organization contains a variety of projects, ranging from libraries and frameworks to tools and applications.
 
